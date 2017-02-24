@@ -71,7 +71,7 @@
 				<configuration>
 					<!--jvmArgs>-agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=1044</jvmArgs-->
 					<stopKey>CTRL+C</stopKey>
-					<stopPort>8999</stopPort>
+					<stopPort>9999</stopPort>
 					<scanIntervalSeconds>60</scanIntervalSeconds>
 					<webAppSourceDirectory>${basedir}/src/main/webapp/</webAppSourceDirectory>
 					<webAppConfig>
